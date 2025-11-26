@@ -41,11 +41,11 @@ Status do projeto: Protótipo funcional.
 ----------------------------------------------------------------------------------
 
   Melhorias previstas:
-    autenticação
-    histórico de votações
-    melhoria do prompt engineering
-    UI mais elaborada
-    logs de requisições
+    autenticação,
+    histórico de votações,
+    melhoria do prompt engineering,
+    UI mais elaborada,
+    logs de requisições,
     validação dos documentos enviados
 
 <img width="1237" height="795" alt="lexmind1" src="https://github.com/user-attachments/assets/32321a18-1cef-461b-95f3-78526efed8d3" />
