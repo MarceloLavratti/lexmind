@@ -34,9 +34,11 @@ Tecnologias utilizadas:
 Status do projeto: Protótipo funcional.
   
   Atualmente serve como:
-    estudo de integração de IA local com React + Node
-    demonstração para portfólio
+    estudo de integração de IA local com React + Node,
+    demonstração para portfólio,
     base para expansão futura
+    
+----------------------------------------------------------------------------------
 
   Melhorias previstas:
     autenticação
