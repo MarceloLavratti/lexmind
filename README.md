@@ -17,18 +17,19 @@ Como funciona?
 
 Tecnologias utilizadas:
 
-  Frontend
+  Frontend:
     React.js
     JavaScript
     CSS
 
-  Backend
+  Backend:
     Node.js
     Express
 
   IA
     Dolphin 3 (instalada localmente no servidor)
 
+----------------------------------------------------------------------------------
 
 Status do projeto: Protótipo funcional.
   
