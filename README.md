@@ -30,9 +30,7 @@ Tecnologias utilizadas:
     Dolphin 3 (instalada localmente no servidor)
 
 
-Status do projeto
-
-  Protótipo funcional.
+Status do projeto: Protótipo funcional.
   
   Atualmente serve como:
     estudo de integração de IA local com React + Node
